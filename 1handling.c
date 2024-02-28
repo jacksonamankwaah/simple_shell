@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _strcat -
+ * _strcat -made to work for the shell by us
  * @dest: 
  * @src: 
  * Return: 
